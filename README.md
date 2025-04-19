@@ -1,16 +1,31 @@
-# adv_basics
+# 🎯Flutter Quiz App
 
-A new Flutter project.
+A beginner-friendly Flutter application built with Dart to explore core concepts and widgets.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🚀 Basic Flutter layout structure
+- 🎨 Reusable widgets
+- 🧱 Material Design components
+- 🔁 State management with setState
+- 🖼️ Icon customization (e.g., `app_icon.ico` for Windows runner)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (UI toolkit)
+- **Dart** (Programming Language)
+- **VS Code** (IDE)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```bash
+adv_basics/
+ ├── android/
+ ├── ios/
+ ├── lib/
+ │   ├── main.dart
+ │   └── [other .dart files]
+ ├── windows/
+ │   └── runner/resources/app_icon.ico
+ ├── pubspec.yaml
+ └── README.md
